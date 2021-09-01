@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aidanfoo96
-- 👀 I’m interested in microbial genomics and mosquito microbe & microbiome interactions
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in microbial genomics and mosquito microbiomes
+- 🌱 I’m currently learning metagenomic analysis pipelines
+- 💞️ I’m looking to collaborate on metagaenomic methods to study insect-associated microbiomes
 - 📫 How to reach me my university email : 248064@lstmed.ac.uk
 
 <!---
